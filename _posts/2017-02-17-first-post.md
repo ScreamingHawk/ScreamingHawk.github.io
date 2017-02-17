@@ -15,7 +15,7 @@ I've had a number of big life events recently and thought to myself, what better
 Yes, I am that cool.
 
 ## Who are you anyway?
-I'm just a guy with a passion for code.
+I'm a software engineer for [fun](https://github.com/{{ site.github }}) and [profit](https://linkedin.com/in/{{ site.linkedin }}).
 
 ## What's going to be on the site?
 Whatever I feel like putting on.
