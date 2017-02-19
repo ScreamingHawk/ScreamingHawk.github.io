@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "First Post"
-date:   2017-02-17
+title: "First Post"
 excerpt: "First post on a new website."
 tag:
 - jekyll
