@@ -1,7 +1,7 @@
 # Site
 title: Michael Standen
 description: Software Engineer for fun and profit.
-url: 
+urls: //michael.standen.link
 logo: dp_round.png
 locale: en_US
 
@@ -12,7 +12,7 @@ background:
   default-post: images/1ivkwelwrpa-patrick-lindenberg.jpg
 
 # Jekyll
-permalink:          pretty
+permalink:          date
 markdown:           kramdown
 highlighter:        rouge
 kramdown:
@@ -61,5 +61,21 @@ gems:
   - jekyll-gist
 
 # Exclude list
-include: [_pages]
-exclude: [README.md, Gemfile, Gemfile.lock, _site, src, vendor, CNAME, LICENSE, Rakefile, .sass-cache, .DS_Store]
+include:
+  - _pages
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - _site
+  - src
+  - vendor
+  - CNAME
+  - LICENSE
+  - THEME_LICENSE
+  - Rakefile
+  - .sass-cache
+  - .DS_Store
+  - build.sh
+  - deploy.sh
+  - serve.sh
