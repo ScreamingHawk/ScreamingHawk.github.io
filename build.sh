@@ -1,5 +1,5 @@
-sed -i.bak 's/url:.*/url: https:\/\/michael.standen.link/' _config.yml
-rm _config.yml.bak
+#sed -i.bak 's/url:.*/urls: https:\/\/michael.standen.link/' _config.yml
+#rm _config.yml.bak
+rm -r _site # Force complete build
 bundle exec jekyll build
-cd _site
-rm *.sh
+rm _site/*.sh
