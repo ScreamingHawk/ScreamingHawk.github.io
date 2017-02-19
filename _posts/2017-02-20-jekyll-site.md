@@ -2,7 +2,7 @@
 layout: post
 title:  "Jekyll Site"
 excerpt: "A simple blog hosted in the cloud."
-image: "images/lim-changwon-1461.jpg"
+image: "images/patrick-b-113211.jpg"
 tags:
   - jekyll
   - blog
@@ -20,6 +20,8 @@ There were a number of considerations I made when designing this site and a numb
 
 The driving factor for the change in website was the desire for change.
 I've had a busy year personally and professionally and felt like a change was overdue.
+
+I treated this website like a [greenfield project](https://en.wikipedia.org/wiki/Greenfield_project).
 
 
 ### Infrastructure Requirements
