@@ -2,10 +2,9 @@
 layout: post
 title: "First Post"
 excerpt: "First post on a new website."
-tag:
-- jekyll
-- blog
-- new
+tags:
+  - jekyll
+  - blog
 ---
 
 ## Why the new site?
