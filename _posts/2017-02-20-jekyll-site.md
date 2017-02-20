@@ -5,7 +5,6 @@ excerpt: "A simple blog hosted in the cloud."
 image: "images/patrick-b-113211.jpg"
 tags:
   - jekyll
-  - blog
   - project
   - architecture
 ---
