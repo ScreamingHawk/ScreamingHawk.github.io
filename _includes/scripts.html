@@ -1,5 +1,9 @@
 <!-- JS -->
 <script src="{{ site.url }}/assets/js/main.min.js"></script>
+{% if page.script %}
+<script src="{{ site.url }}/assets/js/{{ page.script }}"></script>
+{% endif %}
+
 {% if site.google-analytics %}
 <!-- Google Analytics snippet -->
 <script>
