@@ -1,10 +1,10 @@
 <!-- JS -->
 <script src="{{ site.url }}/assets/js/main.min.js"></script>
-{% if page.script %}
-<script src="{{ site.url }}/assets/js/{{ page.script }}"></script>
-{% endif %}
 {% if page.externalscript %}
 <script src="{{ page.externalscript }}"></script>
+{% endif %}
+{% if page.script %}
+<script src="{{ site.url }}/assets/js/{{ page.script }}"></script>
 {% endif %}
 
 {% if site.google-analytics %}
