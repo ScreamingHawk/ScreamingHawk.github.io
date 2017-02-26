@@ -3,6 +3,8 @@ layout: post
 title: "Android Slideshow"
 excerpt: "A simple slideshow app for your mobile."
 image: "images/nathan-anderson-99542.jpg"
+imageattribution: "Nathan Anderson"
+imageattributionlink: https://unsplash.com/@nathananderson
 tags:
   - project
   - android

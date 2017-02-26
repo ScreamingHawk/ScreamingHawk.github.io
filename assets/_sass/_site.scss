@@ -477,6 +477,22 @@ canvas {
   }
 }
 
+.section-content {
+  font-size: 50px;
+  color: rgba($white, 0.6);
+  -ms-word-wrap: break-word;
+  word-wrap: break-word;
+  em {
+    font-style: italic;
+  }
+  span {
+    font-size: 10px;
+  }
+  a {
+    color: darken($white, 38%);
+  }
+}
+
 .posts-list {
   margin: 50px 0;
   > li {
@@ -595,6 +611,12 @@ canvas {
     bottom: auto;
     font-size: 80px;
   }
+  .section-content {
+    position: relative;
+    left: auto;
+    bottom: auto;
+    font-size: 40px;
+  }
   .tags > li {
     background: none;
     border: 1px solid rgba($white, 0.4);
@@ -706,6 +728,9 @@ canvas {
   .post-title-section .section-title {
     font-size: 45px;
   }
+  .post-title-section .section-content {
+    font-size: 20px;
+  }
 }
 
 @media screen and (max-width: 960px) {
@@ -772,9 +797,15 @@ canvas {
     .section-title {
       font-size: 40px;
     }
+    .section-content {
+      font-size: 20px;
+    }
   }
   .section-title {
     font-size: 80px;
+  }
+  .section-content {
+    font-size: 40px;
   }
   .projects-menu li {
     width: 100% !important;

@@ -20,6 +20,17 @@ layout: compress
               {% endunless %}
             {% endfor %}
           </ul>
+          <h4 class="section-content">Photo by
+          {% if page.imageattribution %}
+            {% if page.imageattributionlink %}
+              <a href="{{ page.imageattributionlink }}">{{ page.imageattribution }}</a>
+            {% else %}
+              {{ page.imageattribution }}
+            {% endif %}
+          {% else %}
+            <a href="https://unsplash.com/">Unsplash</a>
+          {% endif %}
+          </h4>
           <div class="section-line reverse"><a href="{{ site.url }}/posts.html">Back to posts</a> <em>/</em></div>
         </div>
       </div>

@@ -3,6 +3,8 @@ layout: post
 title:  "Jekyll Site"
 excerpt: "A simple blog hosted in the cloud."
 image: "images/patrick-b-113211.jpg"
+imageattribution: "Patrick B."
+imageattributionlink: https://unsplash.com/@patin617
 tags:
   - jekyll
   - project

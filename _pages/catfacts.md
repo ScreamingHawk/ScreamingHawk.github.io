@@ -3,6 +3,8 @@ layout: page
 title: Cat Facts
 description: "Subscribe to weekly cat facts."
 image: "images/erik-jan-leusink-144775.jpg"
+imageattribution: "Erik-Jan Leusink"
+imageattributionlink: https://unsplash.com/@ejleusink
 permalink: /catfacts.html
 tags:
   - cats
