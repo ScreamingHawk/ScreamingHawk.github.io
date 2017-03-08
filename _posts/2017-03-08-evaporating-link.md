@@ -30,11 +30,12 @@ Indexing of uploaded files has been blocked so they won't appear in search engin
 I was inspired by [txt.fyi](https://txt.fyi/), a service to share snippets of text permanently on the interwebs.
 
 The concept behind [Evaporating.Link][1] was born by flipping this premise on it's head.
+Temporarily store files on the interwebs.
 
 Things like dropbox and Google Drive are great, but I harbour a lack of trust for closed source systems.
 You will find the entire source code for [Evaporating.Link][1] on [Github](https://github.com/ScreamingHawk/evaporating-link).
 
-Additionally, I have so many accounts with third party file stores, I can't recall where everything is located and all of that stuff, I don't even know what is valuable anymore.
+I have so many accounts with third party file stores, I can't recall where everything is located and all of that stuff, I don't even know what is valuable anymore.
 More than likely, none of it is valuable.
 
 ## What
