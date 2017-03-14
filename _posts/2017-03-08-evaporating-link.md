@@ -54,6 +54,8 @@ In Amazon of course!
 
 I'll do another write up that specifically talks about the architecture behind [Evaporating.Link][1].
 
+**Edit:** And [here it is]({{ site.url }}/2017/03/15/evaporating-link-architecture.html)!
+
 ## When
 
 [Evaporating.Link][1] is live now!
