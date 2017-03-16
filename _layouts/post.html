@@ -40,7 +40,7 @@ layout: compress
       <div class="share-buttons">
         {% include share.html %}
       </div>
-      <a href="{{ site.url }}/posts.html" title="posts" class="posts-menu-icon"></a>
+      {% include top-links.html %}
       <div class="inner-post content">
         <div class="date-highlight">{% if page.date %}{{ page.date | date: '%d %b %Y' }}{% else %}&#x2756;{% endif %}</div>
         {{ content }}
