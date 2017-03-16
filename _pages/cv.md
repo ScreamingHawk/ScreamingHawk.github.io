@@ -33,7 +33,7 @@ imageattributionlink: https://unsplash.com/@iamkiran
 #### {{ item.blurb }}
 {% endif %}
 {% for content in item.content %}
-{{ content }}
+{{ content | markdownify }}
 {% endfor %}
 {% endfor %}
 {% endif %}
