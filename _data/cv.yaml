@@ -1,11 +1,10 @@
 details:
-  name: Michael Standen
-  email: michael@standen.link
-  phone: 0212530730
-  location: Auckland, New Zealand
-
-blurb: |
-  Software Engineer for fun and profit.
+  name: "Michael Standen"
+  email: "michael@standen.link"
+  phone: "0212530730"
+  location: "Auckland, New Zealand"
+  blurb: |
+    Software Engineer for fun and profit.
 
 sections:
   - title: "Skills"
