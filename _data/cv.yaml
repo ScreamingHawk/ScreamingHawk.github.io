@@ -61,10 +61,12 @@ sections:
   - title: "Qualifications and Education"
     content:
     - title: "AWS Certified Solutions Architect"
-      blurb: "Certified to the Associate level"
+      content:
+        - "Certified to the Associate level"
       date: "2017"
     - title: "AWS Certified Developer"
-      blurb: "Certified to the Associate level"
+      content:
+        - "Certified to the Associate level"
       date: "2016"
     - title: "University of Auckland"
       blurb: "Bachelor of Software Engineering"
