@@ -6,6 +6,7 @@ permalink: /cv.html
 image: "images/sai-kiran-anagani-61187.jpg"
 imageattribution: "Sai Kiran Anagani"
 imageattributionlink: https://unsplash.com/@iamkiran
+block_share_bottom: true
 ---
 
 {% assign cv = site.data.cv %}
