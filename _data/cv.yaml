@@ -31,8 +31,8 @@ sections:
     content:
     - title: "Frontend"
       content:
-      - "Pure web technologies: HTML, CSS, Javascript"
-      - "Pre-processed languages: Markdown, Sass, Coffeescript"
+      - "**Pure web technologies:** HTML, CSS, Javascript"
+      - "**Pre-processed languages:** Markdown, Sass, Coffeescript"
     - title: "Backend"
       content:
       - "**Java:** 6+ years corporate and educational experience. Java is my bread and butter"
