@@ -16,7 +16,7 @@ externalscript: "https://sdk.amazonaws.com/js/aws-sdk-2.2.19.min.js"
 <h3>Get spam about cats :3 (weekly)</h3>
 <form id="catForm">
   <input id="email" required="true" placeholder="ilovecats@myhouse.com">
-  <button id="catButton">Send Me Cats!</button>
+  <button id="catButton" class="btn">Send Me Cats!</button>
 </form>
 <p id="note" class="hidden"></p>
 
