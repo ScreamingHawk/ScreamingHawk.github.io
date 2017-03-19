@@ -25,7 +25,9 @@ block_share_bottom: true
 ### {{section.title}} available on request
 {% else %}
 {% for item in section.content %}
+{% if item.title %}
 ### {{ item.title }}
+{% endif %}
 {% if item.date and item.blurb %}
 #### ({{ item.date }}) {{ item.blurb }}
 {% elsif item.date %}
