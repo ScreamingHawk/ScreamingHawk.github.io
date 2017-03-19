@@ -27,14 +27,18 @@ $(document).ready(function() {
 
   // Print
   $(".print-content-button").click(function() {
-     var printContents = $(".block-right .content").html();
-     var originalContents = $("body").html();
+    var printContents = $(".print-content");
+    if (printContents.length == 0){
+      printContents = $(".block-right .content");
+    }
+    printContents = printContents.html();
+    var originalContents = $("body").html();
 
-     $("body").html(printContents);
+    $("body").html(printContents);
 
-     window.print();
+    window.print();
 
-     $("body").html(originalContents);
+    $("body").html(originalContents);
   });
 });
 
