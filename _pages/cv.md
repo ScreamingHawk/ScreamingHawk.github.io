@@ -9,6 +9,8 @@ imageattributionlink: https://unsplash.com/@iamkiran
 block_share_bottom: true
 ---
 
+<button class="btn align-right print-content-button">Print</button>
+
 {% assign cv = site.data.cv %}
 # {{ cv.details.name }}
 {% if cv.details.blurb %}
