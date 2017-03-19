@@ -11,6 +11,8 @@ block_share_bottom: true
 
 <button class="btn align-right print-content-button">Print</button>
 
+<div class="print-content">
+
 {% capture pageContent %}
 {% assign cv = site.data.cv %}
 # {{ cv.details.name }}
@@ -47,3 +49,6 @@ block_share_bottom: true
 {% endcapture %}
 
 {{ pageContent | markdownify }}
+
+</div>
+
