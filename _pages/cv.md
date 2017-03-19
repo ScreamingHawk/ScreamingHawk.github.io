@@ -11,6 +11,7 @@ block_share_bottom: true
 
 <button class="btn align-right print-content-button">Print</button>
 
+{% capture pageContent %}
 {% assign cv = site.data.cv %}
 # {{ cv.details.name }}
 {% if cv.details.blurb %}
@@ -38,9 +39,11 @@ block_share_bottom: true
 #### {{ item.blurb }}
 {% endif %}
 {% for content in item.content %}
-{{ content | markdownify }}
+{{ content }}
 {% endfor %}
 {% endfor %}
 {% endif %}
 {% endfor %}
+{% endcapture %}
 
+{{ pageContent | markdownify }}
