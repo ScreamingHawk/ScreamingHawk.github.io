@@ -76,6 +76,12 @@ sections:
         - "Ported a Java based functional programming language, SystemJ, to Lego NXT robots"
         - "Artificial intellegence projects utlising swarm robotics and MLP networks"
         - "Full academic transcript available on request"
+  - title: "Interest and Hobbies"
+    content:
+    - content:
+       - "Virtual Reality"
+       - "Testing and tinkering with new techologies"
+       - "Mountain biking and running"
   - title: "References"
     request: true
 
