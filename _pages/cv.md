@@ -45,6 +45,9 @@ block_share_bottom: true
 {% endfor %}
 {% endfor %}
 {% endif %}
+{% unless forloop.last %}
+---
+{% endunless %}
 {% endfor %}
 {% endcapture %}
 
