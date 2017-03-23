@@ -162,6 +162,7 @@ onLoad();
 This removes the `Enable Javascript` instruction, as obviously Javascript is enabled.
 
 Once the user authenticates using Google oAuth a number of things happen.
+
 1. The log in button is removed.
 2. The file upload buttons are made visible.
 3. The instructions updated with the users name and directions to upload the file.
