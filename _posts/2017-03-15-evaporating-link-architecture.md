@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Evaporating.Link Architecture"
-excerpt: "Architecture behind the temporary files sharing service."
+excerpt: "Architecture behind the temporary file sharing service."
 image: "images/james-sutton-191331.jpg"
 imageattribution: "James Sutton"
 imageattributionlink: https://unsplash.com/@jamessutton_photography
