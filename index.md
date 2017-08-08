@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-# About
+## About
 
 Software Engineer for [fun](https://github.com/{{ site.github }}) and [profit](https://linkedin.com/in/{{ site.linkedin }}).
 
