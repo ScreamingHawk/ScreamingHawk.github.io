@@ -16,7 +16,8 @@ sections:
         - "Web development for multiple projects of national audiences using a plethora of languages, tools and frameworks"
         - "Design and implemention of API enabling loan applications at high profile New Zealand finance company"
         - "Implementation of API for reporting and ticket printing across over 250 supermarkets saving more than 2000 person hours a week"
-        - "Estimations based on high level functional requirements for projects spanning over 6 months"
+        - "Development and integration of AWS Lex AI chat bot to increase customer engagement"
+        - "Detailed estimations based on high level functional requirements for projects spanning over 6 months"
         - "Analysis and implementation of various tools and frameworks for nation wide projects, both existing and green fields"
         - "Deep analysis of Java memory utilisation in response to priority level 1 outages"
         - "Experiences in both strict gated corporate waterfall and agile scrum development teams"
@@ -39,6 +40,7 @@ sections:
       - "**MySQL:** 4+ years corporate experience. Database design and administration"
       - "**NodeJS / Coffeescript:** 2+ years corporate and private experience. I thoroughly enjoy Javascript frameworks"
       - "**Python:** 2+ years corporate and private experience. Python is my go to scripting language for rapid development"
+      - "**Kotlin:** 1 year private experience. Kotlin is incredibly fun, and a natural successor to Java"
       - "**PHP:** 1 year corporate experience. Most of this was hacking bad code"
     - title: "Frameworks"
       content:
@@ -51,8 +53,8 @@ sections:
     - title: "Systems"
       content:
         - "**Linux**; Ubuntu, Lubuntu, Debian, Fedora. Preferred development environment"
-        - "**Microsoft Windows:** Personal computing"
-        - "**Android:** Personal and development"
+        - "**Microsoft Windows:** Personal computing and professional development"
+        - "**Android:** Personal development"
     - title: "Professional"
       content:
         - "Punctual"
