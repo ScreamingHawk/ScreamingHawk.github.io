@@ -4,6 +4,19 @@
 
 This is the repo for my personal website. It will be filled with fun and adventure :3
 
+# Install
+
+Note, these instructions may not be compatible with other environments.
+
+```
+sudo apt-add-repository ppa:brightbox/ruby-ng
+sudo apt-get update
+sudo apt-get install ruby2.4 ruby2.4-dev make gcc
+
+sudo gem install jekyll bundler
+sudo bundle install
+```
+
 # Credits
 - Jekyll Theme: [Halve](http://taylantatli.github.io/Halve)
 - Images: [Unsplash](https://unsplash.com/)
