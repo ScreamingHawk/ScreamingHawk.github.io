@@ -26,7 +26,7 @@ sudo apt-get install node-uglify
 For deployment:
 
 ```
-pip install awscli --upgrade --user
+sudo apt-get install awscli
 aws --profile milkprojects configure
 # Follow the prompts
 ```
