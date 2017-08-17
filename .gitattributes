@@ -1,0 +1,2 @@
+# Ensure unix line endings retained on Windows
+*.sh text eol=lf
