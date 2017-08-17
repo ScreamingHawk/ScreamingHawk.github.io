@@ -44,7 +44,7 @@ This is usually done by adding a page provided by google to ensure you can load 
 2. Select the type of ad you would like displayed
 
 <figure>
-  <img src="/images/google-ad-options.png">
+  <img src="/images/google-options.png">
   <figcaption>Variety of Google Ad options.</figcaption>
 </figure>
 
