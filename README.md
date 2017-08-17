@@ -17,6 +17,20 @@ sudo gem install jekyll bundler
 sudo bundle install
 ```
 
+For build:
+
+```
+sudo apt-get install node-uglify
+```
+
+For deployment:
+
+```
+pip install awscli --upgrade --user
+aws --profile milkprojects configure
+# Follow the prompts
+```
+
 # Credits
 - Jekyll Theme: [Halve](http://taylantatli.github.io/Halve)
 - Images: [Unsplash](https://unsplash.com/)
