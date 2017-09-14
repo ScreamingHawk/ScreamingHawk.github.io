@@ -57,6 +57,6 @@ Great for showing off those vacation photos without having to scroll.
 All planned enhancements are here: https://github.com/ScreamingHawk/android-slideshow/labels/enhancement
 
 ## Credits
-[Michael Standen](http://michael.standen.link)
+[Michael Standen](/)
 
 This software is provided under the [MIT License](https://tldrlegal.com/license/mit-license) so it's free to use so long as you give me credit.
