@@ -8,7 +8,6 @@ imageattributionlink: https://unsplash.com/@nathananderson
 tags:
   - project
   - android
-  - slideshow
 ---
 
 # Android Slideshow
