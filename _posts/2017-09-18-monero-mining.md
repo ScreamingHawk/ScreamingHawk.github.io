@@ -59,7 +59,7 @@ They also offer callbacks so you can display this information to the user, like 
 
 <button id="toggleMiner" disabled="true">Loading...</button>
 
-If this doesn't update for you, you probably have an ad blocker installed that is blocking the miner.
+If this doesn't update for you, you probably have [NoScript][3] or an ad blocker installed that is blocking the miner.
 
 ## Future Work
 
@@ -77,3 +77,4 @@ Over the next couple of *time periods* you may see a transistion
 [0]: https://www.google.com/adsense
 [1]: https://coin-hive.com/
 [2]: https://coin-hive.com/#use-case
+[3]: https://noscript.net/
