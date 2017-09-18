@@ -6,6 +6,9 @@
 {% if page.script %}
 <script src="{{ site.url }}/assets/js/{{ page.script }}"></script>
 {% endif %}
+{% for script in page.scripts %}
+<script src="{{ site.url }}/assets/js/{{ script }}"></script>
+{% endfor %}
 
 {% if site.google-analytics %}
 <!-- Google Analytics snippet -->
