@@ -60,6 +60,7 @@ They also offer callbacks so you can display this information to the user, like 
 <button id="toggleMiner" disabled="true">Loading...</button>
 
 If this doesn't update for you, you probably have [NoScript][3] or an ad blocker installed that is blocking the miner.
+If you want to see how this works, try turning them off and reloading the page.
 
 ## Future Work
 
