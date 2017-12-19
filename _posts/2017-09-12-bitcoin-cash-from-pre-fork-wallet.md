@@ -7,6 +7,7 @@ imageattribution: "Didier Weemaels"
 imageattributionlink: https://unsplash.com/@didwee
 tags:
   - guide
+  - crypto
 ---
 
 ## About Bitcoin Cash
@@ -78,6 +79,7 @@ cat bitcoin-wallet-decrypted-backup | tr -cd "[:print:]" | awk '{print $1}'
 ```
 
 If the result is `org.bitcoin.production`, you got the password right and can continue.
+Or if the result is just `#`, you've got an early version of the back up file and you can find the WIF private keys in this file.
 
 Use the `wallet-tool` to dump the private keys from your backup.
 
@@ -146,10 +148,10 @@ rm -f private* bitcoin* out
 
 This process took me a couple hours to figure out and complete, hopefully this guide will save someone a headache.
 
-If this information helped, consider tipping me at `1HQCiMrG86Rry4fNdP7z17DCdhfZ8ow5nK` (BTC and BCC)
+If this information helped, consider tipping me at `1HQCiMrG86Rry4fNdP7z17DCdhfZ8ow5nK` (BTC and BCH)
 
 [0]: https://play.google.com/store/apps/details?id=de.schildbach.wallet
-[1]: https://evaporating.link
+[1]: http://evaporating.link
 [2]: https://www.google.com/drive/
 [3]: https://insights.ubuntu.com/2016/04/14/howto-ubuntu-on-windows-2/
 [4]: https://play.google.com/store/apps/details?id=com.coinomi.wallet
