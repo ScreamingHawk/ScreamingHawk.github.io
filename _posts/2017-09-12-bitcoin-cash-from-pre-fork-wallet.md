@@ -81,6 +81,13 @@ cat bitcoin-wallet-decrypted-backup | tr -cd "[:print:]" | awk '{print $1}'
 If the result is `org.bitcoin.production`, you got the password right and can continue.
 Or if the result is just `#`, you've got an early version of the back up file and you can find the WIF private keys in this file.
 
+If you have a spending PIN on the wallet you can remove it now (where `<PIN>` is your spending PIN).
+If you do not have a spending PIN, you can skip this step.
+
+```
+./wallet-tool decrypt --wallet=/tmp/bitcoin-wallet-decrypted-backup --password=<PIN>
+```
+
 Use the `wallet-tool` to dump the private keys from your backup.
 
 ```

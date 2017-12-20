@@ -24,6 +24,9 @@ But for completeness, here's how:
 
 Open the app.
 
+If you have a spending PIN on your account, you must remove it before continuing.
+This retrieval approach does not decrypt private keys that are encrypted with a spending PIN.
+
 Open the `option menu` and select `Safety` then `Back up wallet`.
 
 Give your wallet a good password. And I mean *really* good. If someone gets this back up, they have all your coins.
