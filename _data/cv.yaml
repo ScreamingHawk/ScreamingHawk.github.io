@@ -34,6 +34,7 @@ sections:
       content:
       - "**Pure web technologies:** HTML, CSS, Javascript"
       - "**Pre-processed languages:** Markdown, Sass, Coffeescript"
+      - "**Popular frameworks:** React"
     - title: "Backend"
       content:
       - "**Java:** 6+ years corporate and educational experience. Java is my bread and butter"
@@ -86,4 +87,3 @@ sections:
        - "Mountain biking and running"
   - title: "References"
     request: true
-
