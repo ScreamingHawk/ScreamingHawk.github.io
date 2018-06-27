@@ -35,5 +35,15 @@ $(document).ready(function(){
 		});
 
 		return false;
-	})
+	});
+
+	// Load cat fact
+	jQuery.get('https://raw.githubusercontent.com/ScreamingHawk/cat-facts/master/catfacts.txt', function(data){
+		var datas = data.split(/\r?\n/);
+		var index = Math.floor(Math.random() * datas.length);
+		var fact = "[Fact #" + index + "] " + datas[index] + "! :3";
+		var factBox = $('#catFact');
+		factBox.empty();
+		factBox.text(fact);
+	});
 });

@@ -20,8 +20,10 @@ externalscript: "https://sdk.amazonaws.com/js/aws-sdk-2.2.19.min.js"
 </form>
 <p id="note" class="hidden"></p>
 
+<p><b>Here's an example:</b> <span id="catFact"><i>Loading...</i></span></p>
+
 <p><a href="{{ site.url }}/2017/02/23/cat-facts.html">Find out more</a> about Cat Facts.</p>
 
 <a href="http://thecatapi.com"><img src="http://thecatapi.com/api/images/get?format=src"></a>
 
-<p><a href="">Refresh the page</a> for a new cat! :3</p>
+<p><a href="">Refresh the page</a> for a new cat and fact! :3</p>
