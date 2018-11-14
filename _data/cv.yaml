@@ -79,6 +79,9 @@ sections:
         - "Ported a Java based functional programming language, SystemJ, to Lego NXT robots"
         - "Artificial intellegence projects utlising swarm robotics and MLP networks"
         - "Full academic transcript available on request"
+    - title: "Misc Training"
+      content:
+        - "2018 - Elttam Professional Hacker training course"
   - title: "Interests and Hobbies"
     content:
     - content:
