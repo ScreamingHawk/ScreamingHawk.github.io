@@ -42,3 +42,4 @@ aws --profile milkprojects configure
 - [jQuery](http://jquery.com/)
 - [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
 - [FitVids.JS](http://fitvidsjs.com/)
+- [Fira Code](https://github.com/tonsky/FiraCode)

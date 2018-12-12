@@ -160,6 +160,8 @@ kbd,
 pre,
 samp {
   font-family: $code-font;
+  font-feature-settings: "calt" 1;
+  font-variant-ligatures: contextual;
 }
 
 figure {

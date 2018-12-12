@@ -5,6 +5,8 @@ div.highlighter-rouge, figure.highlight {
 	background-color: #f5f5f5;
 	color: #586e75;
 	font-family: $code-font;
+	font-feature-settings: "calt" 1;
+	font-variant-ligatures: contextual;
 	font-size: 0.8em;
 }
 pre.highlight {
@@ -86,6 +88,8 @@ pre.highlight {
 	.blob-code-inner,
 	.blob-num {
 		font-family: $code-font !important;
+		font-feature-settings: "calt" 1;
+		font-variant-ligatures: contextual;
 		font-size: 0.8rem !important;
 	}
 	.gist-meta {
