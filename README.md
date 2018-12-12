@@ -33,7 +33,7 @@ aws --profile milkprojects configure
 
 # Credits
 - Jekyll Theme: [Halve](http://taylantatli.github.io/Halve)
-- Images: [Unsplash](https://unsplash.com/)
+- Images: [Unsplash](https://unsplash.com/) [Pixabay](https://pixabay.com)
 
 ### Others
 - [Jekyll](http://jekyllrb.com/)
