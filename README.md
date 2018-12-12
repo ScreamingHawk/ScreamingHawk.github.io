@@ -4,11 +4,11 @@
 
 This is the repo for my personal website. It will be filled with fun and adventure :3
 
-# Install
+## Install
 
 Note, these instructions may not be compatible with other environments.
 
-```
+```sh
 sudo apt-add-repository ppa:brightbox/ruby-ng
 sudo apt-get update
 sudo apt-get install ruby2.4 ruby2.4-dev make gcc
@@ -19,23 +19,25 @@ sudo bundle install
 
 For build:
 
-```
+```sh
 sudo apt-get install node-uglify
 ```
 
 For deployment:
 
-```
+```sh
 sudo apt-get install awscli
 aws --profile milkprojects configure
 # Follow the prompts
 ```
 
-# Credits
+## Credits
+
 - Jekyll Theme: [Halve](http://taylantatli.github.io/Halve)
 - Images: [Unsplash](https://unsplash.com/) [Pixabay](https://pixabay.com)
 
 ### Others
+
 - [Jekyll](http://jekyllrb.com/)
 - [jQuery](http://jquery.com/)
 - [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
