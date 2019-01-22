@@ -46,7 +46,7 @@ layout: compress
         {{ content }}
         <br>
         {% include signature.html %}
-        {% if !page.block_share_bottom %}
+        {% if page.block_share_bottom == blank %}
           {% include share.html %}
         {% endif %}
         <br>
