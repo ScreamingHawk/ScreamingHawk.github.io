@@ -1,0 +1,26 @@
+{
+  "name": "michael.standen.link",
+  "version": "1.0.0",
+  "description": "[Live here](https://michael.standen.link)",
+  "main": "index.js",
+  "dependencies": {
+    "imagemin-cli": "^4.0.0"
+  },
+  "devDependencies": {
+    "imagemin": "^6.1.0",
+    "uglify-js": "^3.4.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScreamingHawk/ScreamingHawk.github.io.git"
+  },
+  "author": "Michael Standen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ScreamingHawk/ScreamingHawk.github.io/issues"
+  },
+  "homepage": "https://github.com/ScreamingHawk/ScreamingHawk.github.io#readme"
+}

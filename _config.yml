@@ -80,3 +80,6 @@ exclude:
   - build.sh
   - deploy.sh
   - serve.sh
+  - node_modules
+  - package.json
+  - package-lock.json

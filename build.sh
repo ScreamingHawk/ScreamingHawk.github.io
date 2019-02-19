@@ -1,6 +1,10 @@
 sed -i.bak 's/url:.*/url: https:\/\/michael.standen.link/' _config.yml
 rm _config.yml.bak
-#npm install -g uglify-js
-uglifyjs assets/js/src/* -o assets/js/main.min.js # Minify javascript
-rm -r _site # Force complete build
+# Dependencies
+npm i
+# Mini JS
+node_modules/.bin/uglifyjs assets/js/src/* -o assets/js/main.min.js
+# Force build
+rm -r _site
 bundle exec jekyll build
+node_modules/.bin/imagemin _site/images/* --out-dir=_site/images
