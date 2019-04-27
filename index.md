@@ -7,4 +7,4 @@ Software Engineer for [fun](https://github.com/{{ site.github }}) and [profit](h
 
 Check out some of my [projects]({{ site.url }}/tags.html#project) like [Cat Facts]({{ site.url }}/catfacts.html), or read some of my [ramblings]({{ site.url }}/posts.html).
 
-If you have a question, job offer, or just want to say hi, flick me an [email](mailto:{{ site.email }}).
+You can contact me through the various social links on the left.
