@@ -5,3 +5,7 @@ _site/
 *.swp
 
 node_modules
+
+# Env stuff
+.vscode/
+.sfdx/
