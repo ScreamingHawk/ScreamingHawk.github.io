@@ -76,11 +76,21 @@ In cases like this, I need the problem to shown that it has more importance than
 
 Occasionally I'm so overwhelmed, I drop the harder emotionally driven questions to the bottom of my priority list, even if they are important.
 
-When force to address the problem, I'll seek help to make a decision. Emotional questions are outside my area of expertise and I will seek an expert's opinion. It will be very draining and I'll likely go with whatever the expert suggests.
+When forced to address the problem, I'll seek help to make a decision. Emotional questions are outside my area of expertise and I will seek an expert's opinion. It will be very draining and I'll likely go with whatever the expert suggests.
 
 If I'm emotionally drained, I don't care.
 
 When emotional problems come up, let me seek help, or suggest someone for me to talk the problem through with. Be aware that my decision will be heavily influenced, so any help should be delivered without bias if my true opinion is desired.
+
+## I Don't Feel Heard
+
+Some of the time, I'm asked an opinion (often indirectly) and I feel like my response isn't heard or valued. This immediately makes me lose interest in the problem.
+
+When pushed to respond to the problem, I'll state my possible again but will defer to another person who appeared to have more persuasion.
+
+If I don't feel heard, I don't care.
+
+When I don't feel heard, single me out and engage with me about my response. This is often a perception issue and showing that I was listened to will help me overcome this.
 
 ## Thanks
 
