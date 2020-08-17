@@ -2,7 +2,7 @@
 layout: post
 title: "Android Phone Saver"
 excerpt: "An Android application for saving files to your device."
-image: "images/diego-ph-272474.jpg"
+image: "images/diego-ph-272474.webp"
 imageattribution: "Diego PH"
 imageattributionlink: https://unsplash.com/@jdiegoph
 tags:

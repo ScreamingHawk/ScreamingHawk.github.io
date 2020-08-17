@@ -2,7 +2,7 @@
 layout: post
 title: "Bitcoin Cash from your Pre-Fork Android Wallet"
 excerpt: "Walkthrough for how to get Bitcoin Cash out of your pre-fork Android Bitcoin Wallet."
-image: "images/didier-weemaels-36055.jpg"
+image: "images/didier-weemaels-36055.webp"
 imageattribution: "Didier Weemaels"
 imageattributionlink: https://unsplash.com/@didwee
 tags:

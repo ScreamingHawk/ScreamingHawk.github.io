@@ -2,7 +2,7 @@
 layout: post
 title: "Evaporating.Link Architecture"
 excerpt: "Architecture behind the temporary file sharing service."
-image: "images/james-sutton-191331.jpg"
+image: "images/james-sutton-191331.webp"
 imageattribution: "James Sutton"
 imageattributionlink: https://unsplash.com/@jamessutton_photography
 tags:
@@ -21,7 +21,7 @@ If you missed the first post about Evaporating.Link, you can [read the summary h
 This project utilises some key features of AWS in order to provide a cheap and scalable fully managed service.
 
 <figure>
-  <img src="/images/cloudcraft-evaporating-link.jpg">
+  <img src="/images/cloudcraft-evaporating-link.webp">
   <figcaption>Evaporating.Link architecture created on <a href="https://cloudcraft.co/" title="Cloudcraft">Cloudcraft</a>.</figcaption>
 </figure>
 

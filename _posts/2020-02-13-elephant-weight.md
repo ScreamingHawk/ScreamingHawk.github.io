@@ -2,7 +2,7 @@
 layout: post
 title: "How much does an elephant weigh"
 excerpt: "A simple interview question to determine how the candidate approaches a problem."
-image: "images/mammal-3218712.jpg"
+image: "images/mammal-3218712.webp"
 imageattribution: "Alan"
 imageattributionlink: https://pixabay.com/users/ad_images-6663717/
 tags:

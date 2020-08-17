@@ -2,15 +2,15 @@
 title: Michael Standen
 description: Check out the ramblings and open source projects by Michael Standen, a software engineer for fun and profit.
 url: https://michael.standen.link
-logo: dp_round.png
+logo: dp_round.webp
 disqus_shortname: michael-standen
 locale: en_US
 
 # Left Block Images
 background:
-  homepage: images/oqtafyt5ktw-ilya-pavlov.jpg
-  post-list: images/escc1qx6tvw-ehud-neuhaus.jpg
-  default-post: images/1ivkwelwrpa-patrick-lindenberg.jpg
+  homepage: images/oqtafyt5ktw-ilya-pavlov.webp
+  post-list: images/escc1qx6tvw-ehud-neuhaus.webp
+  default-post: images/1ivkwelwrpa-patrick-lindenberg.webp
 
 # Jekyll
 permalink:          date

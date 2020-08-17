@@ -2,7 +2,7 @@
 layout: post
 title: "How to Google AdSense"
 excerpt: "Walkthrough for adding AdSense ads to a website."
-image: "images/mike-petrucci-131817.jpg"
+image: "images/mike-petrucci-131817.webp"
 imageattribution: "Mike Petrucci"
 imageattributionlink: https://unsplash.com/@mikepetrucci
 tags:
@@ -44,7 +44,7 @@ This is usually done by adding a page provided by google to ensure you can load 
 2. Select the type of ad you would like displayed
 
 <figure>
-  <img src="/images/google-options.png">
+  <img src="/images/google-options.webp">
   <figcaption>Variety of Google Ad options.</figcaption>
 </figure>
 

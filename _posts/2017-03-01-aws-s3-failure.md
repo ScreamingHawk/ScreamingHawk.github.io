@@ -2,7 +2,7 @@
 layout: post
 title: "AWS S3 Failure"
 excerpt: "Why not to put all your eggs in one bucket."
-image: "images/lukas-budimaier-131299.jpg"
+image: "images/lukas-budimaier-131299.webp"
 imageattribution: "Lukas Budimaier"
 imageattributionlink: https://unsplash.com/@lukasbudimaier
 tags:

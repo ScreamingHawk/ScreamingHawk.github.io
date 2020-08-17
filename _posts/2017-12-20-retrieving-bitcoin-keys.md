@@ -2,7 +2,7 @@
 layout: post
 title: "Retrieving Bitcoin Private Keys"
 excerpt: "An updated guide on how to get your Bitcoin private keys from your Android wallet."
-image: "images/pexels-photo-114741.jpeg"
+image: "images/pexels-photo-114741.webp"
 imageattribution: "George Becker"
 imageattributionlink: https://www.pexels.com/u/eye4dtail/
 tags:

@@ -2,7 +2,7 @@
 layout: post
 title: "Let's Encrypt Certificate"
 excerpt: "Getting a Certificate from Let's Encrypt"
-image: "images/padlock-lock-chain-key-39624.jpg"
+image: "images/padlock-lock-chain-key-39624.webp"
 imageattribution: "Steve Buissinne"
 imageattributionlink: https://pixabay.com/en/padlock-lock-chain-key-security-597495/
 tags:

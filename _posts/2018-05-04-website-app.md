@@ -2,7 +2,7 @@
 layout: post
 title: "Website to App Migration"
 excerpt: "The journey of migrating my website to an app."
-image: "images/abstract-business-code-270348.jpg"
+image: "images/abstract-business-code-270348.webp"
 imageattribution: "Lawrence Monk"
 imageattributionlink: https://pixabay.com/en/users/lmonk72-731125/
 tags:
@@ -30,7 +30,7 @@ This walkthrough is intended for people who have experience with Android, but so
 In [Android Studio][0] create a new project.
 
 <figure>
-  <img src="/images/website-app-1.png">
+  <img src="/images/website-app-1.webp">
   <figcaption>Create new project.</figcaption>
 </figure>
 
@@ -195,7 +195,7 @@ Android Studio has a really simple way to generate images at the required sizes 
 `File > New > Image Asset` then follow the prompts.
 
 <figure>
-  <img src="/images/website-app-2.png">
+  <img src="/images/website-app-2.webp">
   <figcaption>Generate an icon.</figcaption>
 </figure>
 

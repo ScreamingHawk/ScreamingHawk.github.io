@@ -2,7 +2,7 @@
 layout: post
 title: "Android App Translations"
 excerpt: "How I got my app translated for free."
-image: "images/andre-benz-256762.jpg"
+image: "images/andre-benz-256762.webp"
 imageattribution: "Andre Benz"
 imageattributionlink: https://unsplash.com/@trapnation
 tags:
@@ -20,7 +20,7 @@ The apps were originally for my own use, but out of interest in the platform, I 
 Since then, each app has had a surprising amount of installs across a range of countries. 
 
 <figure>
-  <img src="/images/app-install-map.jpg">
+  <img src="/images/app-install-map.webp">
   <figcaption>Install locations for <a href="https://play.google.com/store/apps/details?id=link.standen.michael.phonesaver" title="Phone Saver">Phone Saver</a>.</figcaption>
 </figure>
 

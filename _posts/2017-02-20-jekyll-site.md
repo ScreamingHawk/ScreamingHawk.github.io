@@ -2,7 +2,7 @@
 layout: post
 title:  "Jekyll Site"
 excerpt: "A simple blog hosted in the cloud."
-image: "images/patrick-b-113211.jpg"
+image: "images/patrick-b-113211.webp"
 imageattribution: "Patrick B."
 imageattributionlink: https://unsplash.com/@patin617
 tags:
@@ -70,7 +70,7 @@ It ticks all the boxes, and I enjoy learning new technologies so decided I would
 The end result of the architecture is basic while still fitting all the criteria layed out previously.
 
 <figure>
-	<img src="/images/cloudcraft-michael.standen.link.jpg">
+	<img src="/images/cloudcraft-michael.standen.link.webp">
 	<figcaption>michael.standen.link architecture created on <a href="https://cloudcraft.co/" title="Cloudcraft">Cloudcraft</a>.</figcaption>
 </figure>
 

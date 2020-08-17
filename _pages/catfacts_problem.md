@@ -2,7 +2,7 @@
 layout: page
 title: Cat Facts
 description: "Cat facts subscription error."
-image: "images/erik-jan-leusink-144775.jpg"
+image: "images/erik-jan-leusink-144775.webp"
 imageattribution: "Erik-Jan Leusink"
 imageattributionlink: https://unsplash.com/@ejleusink
 permalink: /catfacts_problem.html

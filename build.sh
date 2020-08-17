@@ -7,4 +7,3 @@ node_modules/.bin/uglifyjs assets/js/src/* -o assets/js/main.min.js
 # Force build
 rm -r _site
 bundle exec jekyll build
-node_modules/.bin/imagemin _site/images/* --out-dir=_site/images

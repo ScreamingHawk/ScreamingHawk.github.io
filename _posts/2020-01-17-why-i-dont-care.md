@@ -2,7 +2,7 @@
 layout: post
 title: "Why I Don't Care"
 excerpt: "A short self reflection about why I don't care."
-image: "images/boat-336551.jpg"
+image: "images/boat-336551.webp"
 imageattribution: "Free Photos"
 imageattributionlink: https://pixabay.com/users/free-photos-242387/
 tags:

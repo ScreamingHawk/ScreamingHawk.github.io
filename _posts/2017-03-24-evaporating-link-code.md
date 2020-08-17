@@ -2,7 +2,7 @@
 layout: post
 title: "Evaporating.Link Code"
 excerpt: "Code walkthrough for the temporary file sharing service."
-image: "images/dave-michuda-54058.jpg"
+image: "images/dave-michuda-54058.webp"
 imageattribution: "Dave Michuda"
 imageattributionlink: https://unsplash.com/@dmichuda
 tags:

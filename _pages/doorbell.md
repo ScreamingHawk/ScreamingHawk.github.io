@@ -2,7 +2,7 @@
 layout: page
 title: Ding Dong
 description: "Ring the door bell."
-image: "images/bell-door-doorbell-1978.jpg"
+image: "images/bell-door-doorbell-1978.webp"
 imageattribution: "Little Visuals"
 imageattributionlink: http://littlevisuals.co/post/83418146063
 permalink: /doorbell.html

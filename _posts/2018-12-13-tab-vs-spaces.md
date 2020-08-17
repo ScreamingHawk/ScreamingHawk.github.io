@@ -2,7 +2,7 @@
 layout: post
 title: "Tabs vs Spaces"
 excerpt: "The many reasons why tabs are better than spaces"
-image: "images/space-3197611.jpg"
+image: "images/space-3197611.webp"
 imageattribution: "Dorothe"
 imageattributionlink: https://pixabay.com/en/space-empty-wood-floor-plant-3197611/
 tags:

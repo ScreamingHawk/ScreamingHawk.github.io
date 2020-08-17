@@ -2,7 +2,7 @@
 layout: post
 title: "Discord Bot"
 excerpt: "Writing a Discord bot with Discord JS."
-image: "images/franck-v-zbLW0FG8XU8-unsplash.jpg"
+image: "images/franck-v-zbLW0FG8XU8-unsplash.webp"
 imageattribution: "Franck V."
 imageattributionlink: https://unsplash.com/@franckinjapan
 tags:

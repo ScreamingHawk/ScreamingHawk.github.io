@@ -2,7 +2,7 @@
 layout: post
 title: "Install Prestashop"
 excerpt: "A quick and easy to follow guide for installing PrestaShop in the cloud."
-image: "images/ferdinand-stohr-197019.jpg"
+image: "images/ferdinand-stohr-197019.webp"
 imageattribution: "Ferdinand Stohr"
 imageattributionlink: https://unsplash.com/@fellowferdi
 tags:

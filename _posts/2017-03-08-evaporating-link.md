@@ -2,7 +2,7 @@
 layout: post
 title: "Evaporating.Link"
 excerpt: "Upload and share temporary files for free."
-image: "images/alexandru-stavrica-151941.jpg"
+image: "images/alexandru-stavrica-151941.webp"
 imageattribution: "Alexandru Stavrica"
 imageattributionlink: https://unsplash.com/@alexandru_stavrica
 tags:

@@ -2,7 +2,7 @@
 layout: post
 title: "Raspberry Pi Security Camera"
 excerpt: "Step by step instructions for how to build a security camera with a raspberry pi and a webcam."
-image: "images/matthew-henry-87142.jpg"
+image: "images/matthew-henry-87142.webp"
 imageattribution: "Matthew Henry"
 imageattributionlink: https://unsplash.com/@matthewhenry
 tags:
