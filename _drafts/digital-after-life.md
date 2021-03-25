@@ -45,7 +45,7 @@ Use these to get around the password requirements for individual apps.
 
 To make life easier I've included a number of passwords and pin numbers in my will that are needed to access import accounts.
 
-I recommend setting up an automated forwarding rule so you get my emails on both my email addresses to make your life easier. 
+I recommend setting up an automated forwarding rule on both my email addresses so you get my emails to make your life easier. 
 
 ## Devices
 
@@ -58,7 +58,7 @@ Feel free to do whatever you like with this.
 Please keep my SIM card for 2 factor authentication purposes.
 
 Feel free to do whatever you see fit with my PC.
-I don't have anything of value on here either.
+I don't have anything of value on there either.
 
 ## Friends and Social
 
@@ -90,7 +90,7 @@ The one's listed above are the only ones I care strongly about.
 
 Steam doesn't always honour requests to transfer game ownership.
 Feel free to take ownership of the account by changing the username and other details.
-I would appreciate if any of the family can access the account.
+I would appreciate if any of the family can access the games.
 
 All my true friends from Steam know me on other platforms.
 Do not worry if you unfriend anyone as you take ownership.
@@ -111,7 +111,7 @@ Select each zipped file, `Action` and `Initiate Restore`.
 More information about the restore process can be found here: https://docs.aws.amazon.com/AmazonS3/latest/userguide/restoring-objects.html
 
 Log in to [Google Photos][5] to view the photos.
-Export the photos via the [Google Takeout][6].
+Export the photos via [Google Takeout][6].
 
 I haven't used [Facebook][7] in a long time but there are some old photos in there.
 Log in to my account, navigate to `Settings` and download a copy of my Facebook data.
@@ -141,6 +141,7 @@ The source code will remain available on [GitHub][2] and hopefully the READMEs i
 All my content that has a cost associated is stored on [AWS][3].
 Here are some instructions from AWS about how to close an account: https://aws.amazon.com/premiumsupport/knowledge-center/close-aws-account/
 Please make sure you have finished exporting any photos.
+My email is also hosted here so make sure you are done with accessing my accounts too.
 At this point I would also recommend cancelling the credit card to ensure there are no additional charges.
 
 ### Exceptions
@@ -163,7 +164,7 @@ I recommend the server transition to a new bot.
 The state can be exported at any time via admin commands.
 
 `PI Manager` is hosted on my PC (there is a `.bat` file on the desktop).
-This bot is currently storing state in a hidden discord channel so anyone that runs the bot will have all the content.
+This bot is currently storing state in a hidden discord channel so anyone that runs the bot will have all the data instantly.
 You can share the code and bot token for anyone else on the server to run it.
 
 ## Crypto
@@ -174,7 +175,7 @@ The seed phrases are located with my important documents.
 **Please please please do not share these phrases!**
 
 I have set up a wallets for each of the kids with small balances.
-I would like them to have complete access to these accounts as learning experiences.
+I would like them to have complete access to these accounts to do with as they wish. It is not a college fund.
 
 There are a number of documents stored in [Google Drive][1] that point to various online exchanges where crypto is stored. 
 I suggest you withdraw the funds as fiat via [EasyCrypto][4] (or some other means).
