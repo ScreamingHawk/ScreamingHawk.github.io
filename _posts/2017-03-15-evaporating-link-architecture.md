@@ -14,7 +14,7 @@ tags:
 
 [Evaporating.Link](http://evaporating.link) is a simple file sharing service hosted in the cloud.
 
-If you missed the first post about Evaporating.Link, you can [read the summary here]({{ site.url }}/2017/03/08/evaporating-link.html).
+If you missed the first post about Evaporating.Link, you can [read the summary here](/2017/03/08/evaporating-link.html).
 
 ## Architecture Overview
 
@@ -36,9 +36,9 @@ A lot of the usual cruft has been removed for the sake of simplicity and cost.
 
 Amazon's [Simple Service Storage (S3)](https://aws.amazon.com/s3/) is the perfect candidate for hosting a static website in the AWS cloud.
 
-I've covered it [in detail here]({{ site.url }}/2017/02/20/jekyll-site.html#storage---s3) so won't rehash the benefits again.
+I've covered it [in detail here](/2017/02/20/jekyll-site.html#storage---s3) so won't rehash the benefits again.
 
-It's worth noting here that without a Cloudfront distribution in front of S3 the website will be vulnerable to [S3 failures]({{ site.url }}/2017/03/01/aws-s3-failure.html).
+It's worth noting here that without a Cloudfront distribution in front of S3 the website will be vulnerable to [S3 failures](/2017/03/01/aws-s3-failure.html).
 Due to the dependency on S3 for uploads, a primary use of the site, the Evaporating.Link will be severely debilitated regardless of whether Cloudfront is added.
 
 ### Lifecycle Policy
@@ -113,7 +113,7 @@ This restricts the ability to upload files to the evaporating.link domain and as
 
 ## Authentication and Authorisation - Google, Amazon IAM and Cognito
 
-Unlike previous projects, such as [Cat Facts]({{ site.url }}/catfacts.html), Evaporating.Link requires authentication to use the service.
+Unlike previous projects, such as [Cat Facts](/catfacts.html), Evaporating.Link requires authentication to use the service.
 
 Authentication is provided via Google OAuth, which is automatically verified by Cognito providing an authentication token to access Amazon resources.
 

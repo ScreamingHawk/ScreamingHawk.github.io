@@ -14,7 +14,7 @@ tags:
 
 [Evaporating.Link][1] is a simple file sharing service hosted in the cloud.
 
-If you missed the first post about Evaporating.Link, you can [read the summary here]({{ site.url }}/2017/03/08/evaporating-link.html).
+If you missed the first post about Evaporating.Link, you can [read the summary here](/2017/03/08/evaporating-link.html).
 
 ## Code Overview
 
@@ -264,4 +264,4 @@ There are a number of architectural decisions in this upload which are detailed 
 You should have a read of that if you haven't already.
 
 [1]: http://evaporating.link
-[2]: {{ site.url }}/2017/03/15/evaporating-link-architecture.html
+[2]: /2017/03/15/evaporating-link-architecture.html

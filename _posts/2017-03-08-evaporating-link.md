@@ -54,7 +54,7 @@ In Amazon of course!
 
 I'll do another write up that specifically talks about the architecture behind [Evaporating.Link][1].
 
-**Edit:** And [here it is]({{ site.url }}/2017/03/15/evaporating-link-architecture.html)!
+**Edit:** And [here it is](/2017/03/15/evaporating-link-architecture.html)!
 
 ## When
 
@@ -66,7 +66,7 @@ Total development time including design and infrastructural procurement was abou
 
 ## Who
 
-I'm [Michael Standen]({{ site.url }}). The pretty guy on the home page 😉
+I'm [Michael Standen](). The pretty guy on the home page 😉
 
 
 [1]: http://evaporating.link

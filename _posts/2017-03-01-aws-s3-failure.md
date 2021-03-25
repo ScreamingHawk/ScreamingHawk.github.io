@@ -82,7 +82,7 @@ Did you notice this website go down? No?
 Because I have [AWS Cloudfront](https://aws.amazon.com/cloudfront/) in front of S3, caching responses.
 As a static website, this is a simple solution and also offers a number of other benefits.
 
-Some of my other services would have gone down ([Cat Facts]({{ site.url }}/catfacts.html)), if they were being utilised during this time.
+Some of my other services would have gone down ([Cat Facts](/catfacts.html)), if they were being utilised during this time.
 Luckily for me, at the time of writing, all the services I host on AWS are low traffic.
 
 The correct way to get around a problem like this, where a 3rd party service goes down is to not keep all your eggs in one bucket.

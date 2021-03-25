@@ -22,7 +22,7 @@ externalscript: "https://sdk.amazonaws.com/js/aws-sdk-2.2.19.min.js"
 
 <p><b>Here's an example:</b> <span id="catFact"><i>Loading...</i></span></p>
 
-<p><a href="{{ site.url }}/2017/02/23/cat-facts.html">Find out more</a> about Cat Facts.</p>
+<p><a href="/2017/02/23/cat-facts.html">Find out more</a> about Cat Facts.</p>
 
 <a href="http://thecatapi.com"><img src="http://thecatapi.com/api/images/get?format=src"></a>
 
