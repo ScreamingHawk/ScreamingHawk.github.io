@@ -174,9 +174,6 @@ This is mainly in Bitcoin and Ethereum.
 The seed phrases are located with my important documents.
 **Please please please do not share these phrases!**
 
-I have set up a wallets for each of the kids with small balances.
-I would like them to have complete access to these accounts to do with as they wish. It is not a college fund.
-
 There are a number of documents stored in [Google Drive][1] that point to various online exchanges where crypto is stored. 
 I suggest you withdraw the funds as fiat via [EasyCrypto][4] (or some other means).
 Alternatively, withdraw the funds to the wallets above if you want to keep it as crypto.
