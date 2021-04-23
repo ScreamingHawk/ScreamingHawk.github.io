@@ -160,3 +160,7 @@ a.btn {
     @include notice($red);
   }
 }
+
+@media print {
+  .pagebreak { page-break-before: always; }
+}

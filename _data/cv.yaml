@@ -1,6 +1,6 @@
 details:
   name: "Michael Standen"
-  #email: "Available at request"
+  email: "michael@standen.link"
   phone: "0212530730"
   location: "Auckland, New Zealand"
   blurb: |
@@ -8,29 +8,32 @@ details:
 
 sections:
   - title: "Work Experience"
+    pageBreakAfter: true
     content:
     - title: "Datacom Systems Ltd"
       blurb: "Software Developer"
       date: "2012 - Present"
       content:
         - "Full stack web development for multiple projects of national audiences using a plethora of languages, tools and frameworks"
-        - "Technical leadership and mentoring of development team while balancing requirements from business, architecture and security teams"
+        - "Technical leadership and mentoring of development teams while balancing requirements from business, architecture and security teams"
         - "Development and enforcement of coding standards, version control and continuous integration and deployment pipelines"
-        - "Design and implemention of API enabling loan applications at high profile New Zealand finance company"
+        - "Design and implemention of web application enabling loan applications at high profile New Zealand finance company"
+        - "Implementation of identity and access management micro service at New Zealand's largest payment processing company"
         - "Implementation of API for stock management and ticket printing across over 250 supermarkets saving more than 2000 person hours a week"
         - "Development and integration of AWS Lex AI chat bot to increase customer engagement"
         - "Detailed estimations based on high level functional requirements for projects spanning over 6 months"
         - "Analysis and implementation of various tools and frameworks for nation wide projects, both existing and green fields"
-        - "Experiences in both strict gated corporate waterfall and agile scrum development teams"
+        - "Experiences in methodologies ranging from strict gated corporate waterfall to agile scrum development teams"
     - title: "Personal Development"
       blurb: "Full Stack Developer / Architect / Everything in between"
       content:
-        - "Development and maintenance of Discord bot to support online communities"
+        - "Development and maintenance of multiple Discord bots to support online communities"
         - "Architecture and development online temporary file sharing service"
         - "Development and maintenance of a popular FOSS Android applications"
         - "Design and implemenation of Cat Facts mailing list"
         - "Numerous scripts for niche use cases frequently used by a small audience"
   - title: "Skills"
+    pageBreakAfter: true
     content:
     - title: "Frontend"
       content:
@@ -40,14 +43,14 @@ sections:
     - title: "Backend"
       content:
       - "**Java:** 8+ years corporate and educational experience. Java is my bread and butter"
+      - "**NodeJS / Coffeescript:** 5+ years corporate and private experience. Javascript frameworks are my personal favourite"
       - "**MySQL:** 5+ years corporate experience. Database design and administration"
-      - "**NodeJS / Coffeescript:** 4+ years corporate and private experience. I thoroughly enjoy Javascript frameworks"
       - "**Python:** 3+ years corporate and private experience. Python is my go to scripting language for rapid development"
-      - "**Kotlin:** 2 year private experience. Kotlin is incredibly fun, and a natural successor to Java"
+      - "**Kotlin:** 2 years private experience. Kotlin is incredibly fun, and a natural successor to Java"
       - "**PHP:** 1 year corporate experience. Most of this was hacking bad code"
     - title: "Frameworks"
       content:
-        - "**Spring MVC:** Web portal for high profile New Zealand finance company"
+        - "**Spring MVC and Spring Boot:** Web portals and micro services for leading New Zealand finance, payments and electricity companies"
         - "**Express:** Backend and API framework for national supermarket brand"
         - "**Django:** Backend system for advertisement service visible on leading news websites"
         - "**Jekyll:** Personal website"
@@ -61,10 +64,11 @@ sections:
         - "**Android:** Personal development"
     - title: "Professional"
       content:
-        - "Punctual"
+        - "Passionate"
         - "Succinct"
         - "Collaborator"
   - title: "Qualifications and Education"
+    pageBreakAfter: false
     content:
     - title: "AWS Certified Solutions Architect"
       content:
@@ -86,10 +90,11 @@ sections:
       content:
         - "2018 - Elttam Professional Hacker training course"
   - title: "Interests and Hobbies"
+    pageBreakAfter: false
     content:
     - content:
-       - "Virtual Reality"
-       - "Testing and tinkering with new techologies"
+       - "Ethereum and blockchain"
        - "Mountain biking and running"
+       - "Spending time with the family"
   - title: "References"
     request: true

@@ -23,6 +23,7 @@ block_share_bottom: true
 {% if cv.details.email %}Email: **<a href="mailto:{{ cv.details.email }}">{{ cv.details.email }}</a>**<br />{% endif %}
 {% if cv.details.phone %}Phone: **{{ cv.details.phone }}**<br />{% endif %}
 {% if cv.details.location %}Location: **{{ cv.details.location }}**<br />{% endif %}
+GitHub: **<a href="https://github.com/{{ site.github }}">github.com/{{ site.github }}</a>**<br />
 
 {% for section in cv.sections %}
 ## {{ section.title }}
@@ -47,6 +48,9 @@ block_share_bottom: true
 {% endif %}
 {% unless forloop.last %}
 ---
+{% if section.pageBreakAfter %}
+<div class="pagebreak"></div>
+{% endif %}
 {% endunless %}
 {% endfor %}
 {% endcapture %}
