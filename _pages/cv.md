@@ -6,7 +6,7 @@ permalink: /cv.html
 image: "images/sai-kiran-anagani-61187.webp"
 imageattribution: "Sai Kiran Anagani"
 imageattributionlink: https://unsplash.com/@iamkiran
-block_share_bottom: true
+share: false
 ---
 
 <button class="btn align-right print-content-button">Print</button>
