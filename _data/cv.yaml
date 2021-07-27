@@ -10,9 +10,15 @@ sections:
   - title: "Work Experience"
     pageBreakAfter: true
     content:
+    - title: "Ao Collaboration"
+      blurb: "Chief Technology Officer"
+      date: "2021 - Present"
+      content:
+        - "Provide technical oversight, analysis and direction for burgeoning start up"
+        - "Design and integrate Auth0 proof of concept at New Zealand's largest payment processing company"
     - title: "Datacom Systems Ltd"
       blurb: "Software Developer"
-      date: "2012 - Present"
+      date: "2012 - 2021"
       content:
         - "Full stack web development for multiple projects of national audiences using a plethora of languages, tools and frameworks"
         - "Technical leadership and mentoring of development teams while balancing requirements from business, architecture and security teams"
@@ -27,6 +33,7 @@ sections:
     - title: "Personal Development"
       blurb: "Full Stack Developer / Architect / Everything in between"
       content:
+        - "Design and develop proof of concept Ethereum ERC-721 contract and accompanying website"
         - "Development and maintenance of multiple Discord bots to support online communities"
         - "Architecture and development online temporary file sharing service"
         - "Development and maintenance of a popular FOSS Android applications"
@@ -37,17 +44,17 @@ sections:
     content:
     - title: "Frontend"
       content:
-        - "**Popular frameworks:** React JS"
+        - "**Popular frameworks:** React JS, Web3"
         - "**Pre-processed languages:** Markdown, Sass, Coffeescript"
         - "**Pure web technologies:** HTML, CSS, Javascript"
     - title: "Backend"
       content:
       - "**Java:** 8+ years corporate and educational experience. Java is my bread and butter"
-      - "**NodeJS / Coffeescript:** 5+ years corporate and private experience. Javascript frameworks are my personal favourite"
+      - "**NodeJS:** 5+ years corporate and private experience. Javascript frameworks are my personal favourite"
       - "**MySQL:** 5+ years corporate experience. Database design and administration"
       - "**Python:** 3+ years corporate and private experience. Python is my go to scripting language for rapid development"
       - "**Kotlin:** 2 years private experience. Kotlin is incredibly fun, and a natural successor to Java"
-      - "**PHP:** 1 year corporate experience. Most of this was hacking bad code"
+      - "**Solidity:** 1 year private experience. Designing and developing ERC-721 contracts"
     - title: "Frameworks"
       content:
         - "**Spring MVC and Spring Boot:** Web portals and micro services for leading New Zealand finance, payments and electricity companies"
@@ -58,6 +65,7 @@ sections:
     - title: "Systems / Platforms"
       content:
         - "**Amazon Web Services:** Certified Developer and Solutions Architect to the Associate level"
+        - "**Ethereum:** Development and integration of smart contracts"
         - "**Salesforce:** Trailhead Ranger. Development on platform and integration"
         - "**Linux**; Ubuntu, Lubuntu, Debian, Fedora. Preferred development environment"
         - "**Microsoft Windows:** Personal computing and professional development"
