@@ -66,8 +66,8 @@ sections:
         - "**Wordpress, WooCommerce, Symphony:** Hacking temporary and legacy systems"
     - title: "Systems / Platforms"
       content:
-        - "**Amazon Web Services:** Certified Developer and Solutions Architect to the Associate level"
         - "**Ethereum:** Development and integration of smart contracts"
+        - "**Amazon Web Services:** Certified Developer and Solutions Architect to the Associate level"
         - "**Salesforce:** Trailhead Ranger. Development on platform and integration"
         - "**Linux**; Ubuntu, Lubuntu, Debian, Fedora. Preferred development environment"
         - "**Microsoft Windows:** Personal computing and professional development"
