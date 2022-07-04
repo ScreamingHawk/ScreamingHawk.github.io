@@ -51,11 +51,11 @@ sections:
         - "**Pre-processed languages:** Markdown, Sass, Coffeescript"
     - title: "Backend"
       content:
-      - "**Solidity:** 2 years corporate and private experience. Designing and developing contracts to support ERC-20 / 721 / 1155, exchanges, on chain gaming"
+      - "**Solidity:** 2 years corporate and private experience. Designing and developing contracts to support ERC-20 / 721 / 1155, exchanges, and on chain gaming"
       - "**NodeJS:** 6+ years corporate and private experience. Javascript frameworks are my personal favourite"
       - "**Cairo:** 3 months private experience. Porting Solidity contracts for Starknet"
       - "**Python:** 4+ years corporate and private experience. Python is my go to language for rapid development"
-      - "**Java:** 8+ years corporate and educational experience. Java is my bread and butter"
+      - "**Java:** 8+ years corporate and educational experience. Java is the preferred language for corporate web applications"
       - "**MySQL:** 5+ years corporate experience. Database design and administration"
     - title: "Frameworks"
       content:
