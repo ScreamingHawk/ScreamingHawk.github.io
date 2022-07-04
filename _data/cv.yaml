@@ -11,9 +11,13 @@ sections:
     pageBreakAfter: true
     content:
     - title: "Ao Collaboration"
-      blurb: "Chief Technology Officer"
+      blurb: "Director | CTO | Blockchain Specialist"
       date: "2021 - Present"
       content:
+        - "Fully develop and manage technical aspects behind several NFT projects"
+        - "Design, build and maintain Web3 enabled marketplace for staked NFT redemptions"
+        - "Develop the first ERC-20 / 1155 exchange contract on Ethereum"
+        - "Port ERC-20 / 1155 exchange contract to Cairo for use on Starknet"
         - "Provide technical oversight, analysis and direction for burgeoning start up"
         - "Design and integrate Auth0 proof of concept at New Zealand's largest payment processing company"
     - title: "Datacom Systems Ltd"
@@ -31,34 +35,32 @@ sections:
         - "Analysis and implementation of various tools and frameworks for nation wide projects, both existing and green fields"
         - "Experiences in methodologies ranging from strict gated corporate waterfall to agile scrum development teams"
     - title: "Personal Development"
-      blurb: "Full Stack Developer / Architect / Everything in between"
+      blurb: "Crypto Web3 Solidity / Full Stack Developer / Architect / Everything in between"
       content:
-        - "Design and develop proof of concept Ethereum ERC-721 contract and accompanying website"
+        - "Design and develop Ethereum NFT ERC-721 and utility contracts, and dapps"
         - "Development and maintenance of multiple Discord bots to support online communities"
         - "Architecture and development online temporary file sharing service"
         - "Development and maintenance of a popular FOSS Android applications"
-        - "Design and implemenation of Cat Facts mailing list"
-        - "Numerous scripts for niche use cases frequently used by a small audience"
   - title: "Skills"
     pageBreakAfter: true
     content:
     - title: "Frontend"
       content:
-        - "**Popular frameworks:** React JS, Web3"
-        - "**Pre-processed languages:** Markdown, Sass, Coffeescript"
+        - "**Popular frameworks:** ReactJS, Typescript, Web3 DApps"
         - "**Pure web technologies:** HTML, CSS, Javascript"
+        - "**Pre-processed languages:** Markdown, Sass, Coffeescript"
     - title: "Backend"
       content:
+      - "**Solidity:** 2 years corporate and private experience. Designing and developing contracts to support ERC-20 / 721 / 1155, exchanges, on chain gaming"
+      - "**NodeJS:** 6+ years corporate and private experience. Javascript frameworks are my personal favourite"
+      - "**Cairo:** 3 months private experience. Porting Solidity contracts for Starknet"
+      - "**Python:** 4+ years corporate and private experience. Python is my go to language for rapid development"
       - "**Java:** 8+ years corporate and educational experience. Java is my bread and butter"
-      - "**NodeJS:** 5+ years corporate and private experience. Javascript frameworks are my personal favourite"
       - "**MySQL:** 5+ years corporate experience. Database design and administration"
-      - "**Python:** 3+ years corporate and private experience. Python is my go to scripting language for rapid development"
-      - "**Kotlin:** 2 years private experience. Kotlin is incredibly fun, and a natural successor to Java"
-      - "**Solidity:** 1 year private experience. Designing and developing ERC-721 contracts"
     - title: "Frameworks"
       content:
+        - "**Express:** Backend and API framework for national supermarket brand and Web3 dapps"
         - "**Spring MVC and Spring Boot:** Web portals and micro services for leading New Zealand finance, payments and electricity companies"
-        - "**Express:** Backend and API framework for national supermarket brand"
         - "**Django:** Backend system for advertisement service visible on leading news websites"
         - "**Jekyll:** Personal website"
         - "**Wordpress, WooCommerce, Symphony:** Hacking temporary and legacy systems"
