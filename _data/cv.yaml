@@ -14,9 +14,9 @@ sections:
       blurb: "Senior Smart Contract Engineer"
       date: "2023 - Present"
       content:
+        - "Co-author of ERC-5189, a flexible alternative to ERC-4337 account abstraction"
         - "Develop ERC-1155 and ERC-721 wrappers for Niftyswap enabling 'floor' trading"
         - "Develop Horizon's contract library for the Sequence Builder, a tool for creating and managing on chain ecosystems"
-        - "Maintain and upgrade base library contracts for Horizon's NFT & SFT infrastructure"
         - "Develop deployment and verification pipeline that ensures consistency of contracts deployed to multiple networks"
     - title: "Altered State Machine (Futureverse)"
       blurb: "Web3 Engineer"
@@ -62,6 +62,7 @@ sections:
       content:
       - "**Solidity:** 2 years corporate and private experience. Designing and developing contracts to support ERC-20 / 721 / 1155, exchanges, and on chain gaming"
       - "**NodeJS:** 6+ years corporate and private experience. Javascript frameworks are my personal favourite"
+      - "**Go:** 6 months corporate. Writing high performant peer to peer applications"
       - "**Cairo:** 3 months private experience. Porting Solidity contracts for Starknet"
       - "**Python:** 5+ years corporate and private experience. Python is my go to language for rapid development"
       - "**Java:** 8+ years corporate and educational experience. Java is the preferred language for corporate web applications"
@@ -74,7 +75,7 @@ sections:
         - "**Wordpress, WooCommerce, Symphony:** Hacking temporary and legacy systems"
     - title: "Systems / Platforms"
       content:
-        - "**Ethereum:** Development and integration of smart contracts"
+        - "**EVM / Ethereum:** Development and integration of smart contracts"
         - "**Amazon Web Services:** Certified Developer and Solutions Architect to the Associate level"
         - "**Salesforce:** Trailhead Ranger. Development on platform and integration"
         - "**Linux:** Ubuntu, Lubuntu, Debian, Fedora. Preferred development environment"
@@ -112,7 +113,7 @@ sections:
     - content:
        - "Ethereum and blockchain"
        - "AI content creation (text and images)"
-       - "Personal development, physical and intellectual"
+       - "Bouldering and running"
        - "Spending time with the family"
   - title: "References"
     request: true
