@@ -23,13 +23,7 @@ For build:
 sudo apt-get install node-uglify
 ```
 
-For deployment:
-
-```sh
-sudo apt-get install awscli
-aws --profile milkprojects configure
-# Follow the prompts
-```
+For deployment use Github pages.
 
 ## Credits
 
