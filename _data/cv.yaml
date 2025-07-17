@@ -107,6 +107,9 @@ sections:
     - title: "Misc Training"
       content:
         - "2018 - Elttam Professional Hacker training course"
+    - title: "First Aid Training"
+      content:
+        - "2025 - Red Cross - First aid of young children"
   - title: "Interests and Hobbies"
     pageBreakAfter: false
     content:
