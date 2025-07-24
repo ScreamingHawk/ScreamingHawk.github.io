@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Using AI to Analyse My Health Data"
+title: "AI Health Analysis"
 excerpt: "Using AI to analyse a decade of personal health data."
-image: "images/abstract-business-code-270348.webp"
-imageattribution: "Abstract Business Code"
-imageattributionlink: https://unsplash.com/photos/abstract-business-code
+image: "images/joshua-chehov-ZSo4axN3ZXI-unsplash.webp"
+imageattribution: "Joshua Chehov"
+imageattributionlink: https://unsplash.com/photos/a-close-up-of-a-computer-screen-with-a-line-of-ecg-ZSo4axN3ZXI
 tags:
   - ai
   - blog
@@ -49,6 +49,8 @@ This part gave me pause. Making your health data public is not a decision to tak
 For now, I've only released the summary report. I'm an open source guy at heart and I was tempted to publish the raw data, but I'm not sure I'm ready to do that yet. But the core trends remain, and that's the part I want to explore. What can I learn about myself if I give AI the full picture? What happens when you make that picture available to others?
 
 ## Thoughts Going Forward
+
+Next step, exporting all my medical records and doing the same thing with them. I'm not sure what I'll find, but I'm sure it'll be interesting.
 
 This is an experiment. I'm not trying to optimise everything. I'm trying to observe. I want to see if consistent, low-effort data collection can produce long-term insights. If you've got questions, want to do something similar, or just want to geek out about CSV and JSON parsers and body metrics, feel free to reach out.
 
