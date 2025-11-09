@@ -10,13 +10,13 @@ sections:
   - title: "Work Experience"
     pageBreakAfter: true
     content:
-    - title: "Horizon Blockchain Games"
+    - title: "Sequence"
       blurb: "Senior Smart Contract Engineer"
       date: "2023 - Present"
       content:
         - "Co-author of ERC-5189, a flexible alternative to ERC-4337 account abstraction"
-        - "Develop ERC-1155 and ERC-721 wrappers for Niftyswap enabling 'floor' trading"
-        - "Develop Horizon's contract library for the Sequence Builder, a tool for creating and managing on chain ecosystems"
+        - "Develop Sequence Wallet V3 (ecosystem wallet) and session's protocol"
+        - "Develop contract library for the Sequence Builder, a tool for creating and managing on chain ecosystems"
         - "Develop deployment and verification pipeline that ensures consistency of contracts deployed to multiple networks"
     - title: "Altered State Machine (Futureverse)"
       blurb: "Web3 Engineer"
@@ -60,9 +60,9 @@ sections:
         - "**Pre-processed languages:** Markdown, Sass, Coffeescript"
     - title: "Backend"
       content:
-      - "**Solidity:** 2 years corporate and private experience. Designing and developing contracts to support ERC-20 / 721 / 1155, exchanges, and on chain gaming"
-      - "**NodeJS:** 6+ years corporate and private experience. Javascript frameworks are my personal favourite"
-      - "**Go:** 6 months corporate. Writing high performant peer to peer applications"
+      - "**Solidity:** 3 years corporate and private experience. Designing and developing contracts to support ERC-20 / 721 / 1155, exchanges, and on chain gaming"
+      - "**Typescript (NodeJS):** 6+ years corporate and private experience. Javascript frameworks are my personal favourite"
+      - "**Go:** 2 years. Writing high performant applications"
       - "**Cairo:** 3 months private experience. Porting Solidity contracts for Starknet"
       - "**Python:** 5+ years corporate and private experience. Python is my go to language for rapid development"
       - "**Java:** 8+ years corporate and educational experience. Java is the preferred language for corporate web applications"
