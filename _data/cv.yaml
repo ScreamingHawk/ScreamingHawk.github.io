@@ -16,7 +16,7 @@ sections:
       content:
         - "Led implementation and release integration for the Quantstamp-reviewed Trails v1.5 smart contracts, a stateless and ownerless intent-execution architecture built on Sequence Wallet V3"
         - "Built runtime calldata hydration, delegated-extension support, asset sweeping and audit remediations to enable composable bridge, swap and DeFi workflows"
-        - "Helped scale Trails to hundreds of millions of US dollars in successful production volume, more than one hundred thousand successful intents, tens of thousands of successful wallets and hundreds of developers"
+        - "Helped scale Trails to over US$230M in successful production volume, more than one hundred thousand successful intents, tens of thousands of successful wallets and hundreds of developers"
         - "Developed Sequence Wallet V3, its Sessions protocol and the contract library for Sequence Builder ecosystems"
         - "Co-author of ERC-5189, a flexible alternative to ERC-4337 account abstraction"
     - title: "Altered State Machine (Futureverse)"
