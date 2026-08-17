@@ -10,14 +10,15 @@ sections:
   - title: "Work Experience"
     pageBreakAfter: true
     content:
-    - title: "Sequence"
+    - title: "Polygon Labs (formerly Sequence)"
       blurb: "Senior Smart Contract Engineer"
       date: "2023 - Present"
       content:
+        - "Led implementation and release integration for the Quantstamp-reviewed Trails v1.5 smart contracts, a stateless and ownerless intent-execution architecture built on Sequence Wallet V3"
+        - "Built runtime calldata hydration, delegated-extension support, asset sweeping and audit remediations to enable composable bridge, swap and DeFi workflows"
+        - "Helped scale Trails beyond US$200M in reported transaction volume and approximately 500 developers; v1.5 recorded 22,000+ successful intents and nearly 33,000 onchain transactions across 17 observed mainnets by August 2026"
+        - "Developed Sequence Wallet V3, its Sessions protocol and the contract library for Sequence Builder ecosystems"
         - "Co-author of ERC-5189, a flexible alternative to ERC-4337 account abstraction"
-        - "Develop Sequence Wallet V3 (ecosystem wallet) and session's protocol"
-        - "Develop contract library for the Sequence Builder, a tool for creating and managing on chain ecosystems"
-        - "Develop deployment and verification pipeline that ensures consistency of contracts deployed to multiple networks"
     - title: "Altered State Machine (Futureverse)"
       blurb: "Web3 Engineer"
       date: "2022 - 2023"
