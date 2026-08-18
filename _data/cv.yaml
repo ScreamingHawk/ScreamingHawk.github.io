@@ -11,7 +11,7 @@ sections:
     pageBreakAfter: true
     content:
     - title: "Polygon Labs (formerly Sequence)"
-      blurb: "Senior Smart Contract Engineer"
+      blurb: "Staff Blockchain Engineer"
       date: "2023 - Present"
       content:
         - "Led implementation and release integration for the Quantstamp-reviewed Trails v1.5 smart contracts, a stateless and ownerless intent-execution architecture built on Sequence Wallet V3"
